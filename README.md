@@ -1,7 +1,5 @@
 # Analysis-of-T-lymphocyte-scRNA-seq-in-HCC-
 
-
-# Analysis of T-lymphocytes scRNA-seq in HCC
 **GSE140228 데이터셋을 이용한 간세포암(HCC) 내 T cell scRNA-seq 분석**
 
 본 프로젝트는 **Python**과 **Scanpy**를 활용하여, 간세포암(HCC) 환자의 Normal 조직과 Tumor 조직 내 T cell의 전사체 데이터를 비교 분석한 연구입니다.
